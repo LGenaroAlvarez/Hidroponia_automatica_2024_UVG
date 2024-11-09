@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LGenaroAlvarez/Hidroponia_automatica_2024_UVG/blob/f2462ae6608f58484dead54a124a67f43fbc2c54/Logo%20UVG-08.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/LGenaroAlvarez/Hidroponia_automatica_2024_UVG/blob/f2462ae6608f58484dead54a124a67f43fbc2c54/Logo%20UVG-06.png">
- <img alt="LOGO-UVG" src="https://github.com/LGenaroAlvarez/Hidroponia_automatica_2024_UVG/blob/f2462ae6608f58484dead54a124a67f43fbc2c54/Logo%20UVG-03.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LGenaroAlvarez/Hidroponia_automatica_2024_UVG/blob/f2462ae6608f58484dead54a124a67f43fbc2c54/Logo%20UVG-08.png" width="150" height="33">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/LGenaroAlvarez/Hidroponia_automatica_2024_UVG/blob/f2462ae6608f58484dead54a124a67f43fbc2c54/Logo%20UVG-06.png" width="150" height="33">
+ <img alt="LOGO-UVG" src="https://github.com/LGenaroAlvarez/Hidroponia_automatica_2024_UVG/blob/f2462ae6608f58484dead54a124a67f43fbc2c54/Logo%20UVG-03.png" width="150" height="33">
 </picture>
 
 # Diseño e implementación de un sistema hidropónico automático de técnica NFT para el cultivo de cilantro en un entorno urbano
@@ -62,7 +62,7 @@
 La estructura física se basó al rededor de una estantería metálica modular. Esta cuenta con 5 repisas, de las cuales se utilizaron dos para los canales de crecimiento. En el ensamblaje del modelo CAD se observa la disposición de las tuberías para los canales de crecimiento, así como la posición de los sensores de temperatura y humedad ambiental.
 
 <picture>
- <img alt="ESTRUCTURA-SISTEMA-HIDROPONICO" src="https://github.com/LGenaroAlvarez/Hidroponia_automatica_2024_UVG/blob/e166b7d0e84ebb052d00660b9c25ded6fa135edc/Visualizacion_ensamble_sistema.png">
+ <img alt="ESTRUCTURA-SISTEMA-HIDROPONICO" src="https://github.com/LGenaroAlvarez/Hidroponia_automatica_2024_UVG/blob/e166b7d0e84ebb052d00660b9c25ded6fa135edc/Visualizacion_ensamble_sistema.png" width="381" height="392">
 </picture>
 
 ### Lenguajes de programación
@@ -71,6 +71,3 @@ La estructura física se basó al rededor de una estantería metálica modular. 
 * Arduino C
 * Java
 * XML
-
-
-
