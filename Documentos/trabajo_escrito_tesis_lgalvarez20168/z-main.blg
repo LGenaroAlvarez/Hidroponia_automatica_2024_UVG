@@ -1,0 +1,16 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'z-main.blg'
+[288] biber-MSWIN64:340> INFO - === 
+[382] Biber.pm:419> INFO - Reading 'z-main.bcf'
+[642] Biber.pm:979> INFO - Found 40 citekeys in bib section 0
+[675] Biber.pm:4419> INFO - Processing section 0
+[704] Biber.pm:4610> INFO - Looking for bibtex file 'm-bibliografia.bib' for section 0
+[790] bibtex.pm:1713> INFO - LaTeX decoding ...
+[977] bibtex.pm:1519> INFO - Found BibTeX data source 'm-bibliografia.bib'
+[1491] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1491] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1492] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[1563] bbl.pm:660> INFO - Writing 'z-main.bbl' with encoding 'UTF-8'
+[1610] bbl.pm:763> INFO - Output to z-main.bbl
+[1611] Biber.pm:131> WARN - I didn't find a database entry for 'biber' (section 0)
+[1611] Biber.pm:133> INFO - WARNINGS: 1

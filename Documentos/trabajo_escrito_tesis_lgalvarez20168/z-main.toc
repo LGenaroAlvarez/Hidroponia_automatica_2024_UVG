@@ -1,0 +1,87 @@
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Prefacio}{\es@scroman {iii}}{section*.6}%
+\contentsline {chapter}{Lista de figuras}{\es@scroman {viii}}{section*.8}%
+\contentsline {chapter}{Lista de cuadros}{\es@scroman {ix}}{section*.9}%
+\contentsline {chapter}{Resumen}{\es@scroman {x}}{section*.10}%
+\contentsline {chapter}{Abstract}{\es@scroman {xi}}{section*.11}%
+\contentsline {chapter}{\numberline {1}Introducción}{1}{chapter.12}%
+\contentsline {chapter}{\numberline {2}Antecedentes}{2}{chapter.13}%
+\contentsline {section}{\numberline {2.1}La hidroponía en Guatemala}{2}{section.14}%
+\contentsline {section}{\numberline {2.2}Tendencias actuales en la producción sostenible de hortalizas}{3}{section.16}%
+\contentsline {section}{\numberline {2.3}Uso de \textit {Fuzzy Logic} para el control de sistemas hidropónicos}{4}{section.18}%
+\contentsline {section}{\numberline {2.4}Monitoreo y control de cultivos hidropónicos utilizando tecnología IoT}{5}{section.20}%
+\contentsline {section}{\numberline {2.5}La digitalización de la agricultura}{6}{section.22}%
+\contentsline {chapter}{\numberline {3}Justificación}{8}{chapter.23}%
+\contentsline {chapter}{\numberline {4}Objetivos}{9}{chapter.24}%
+\contentsline {section}{\numberline {4.1}Objetivo General}{9}{section.25}%
+\contentsline {section}{\numberline {4.2}Objetivos específicos}{9}{section.26}%
+\contentsline {chapter}{\numberline {5}Alcance}{10}{chapter.27}%
+\contentsline {chapter}{\numberline {6}Marco teórico}{11}{chapter.28}%
+\contentsline {section}{\numberline {6.1}Cultivos hidropónicos}{11}{section.29}%
+\contentsline {section}{\numberline {6.2}Solución nutritiva re-circulante (NFT)}{12}{section.30}%
+\contentsline {section}{\numberline {6.3}Solución de nutrientes}{12}{section.33}%
+\contentsline {section}{\numberline {6.4}Características de la solución nutritiva del cilantro}{14}{section.34}%
+\contentsline {section}{\numberline {6.5}Monitoreo de parámetros para el crecimiento de plantas}{15}{section.36}%
+\contentsline {subsection}{\numberline {6.5.1}Oxígeno disuelto en agua}{15}{subsection.37}%
+\contentsline {subsection}{\numberline {6.5.2}\textit {SEN0237 Gravity Analog Dissolved Oxygen Sensor} de \textit {DFRobot}}{15}{subsection.38}%
+\contentsline {subsection}{\numberline {6.5.3}Sensor de electro conductividad (EC)}{17}{subsection.41}%
+\contentsline {subsection}{\numberline {6.5.4}Potencia de hidrógeno (pH)}{18}{subsection.44}%
+\contentsline {subsection}{\numberline {6.5.5}Sensor de pH \textit {SEN0161 PH Meter} de \textit {DFRobot}}{18}{subsection.45}%
+\contentsline {subsection}{\numberline {6.5.6}Temperatura de agua}{19}{subsection.48}%
+\contentsline {subsection}{\numberline {6.5.7}Sensor de temperatura de agua DS18B20}{19}{subsection.49}%
+\contentsline {subsection}{\numberline {6.5.8}Temperatura y humedad ambiental}{20}{subsection.52}%
+\contentsline {subsection}{\numberline {6.5.9}Sensor de temperatura y humedad DHT11}{21}{subsection.53}%
+\contentsline {section}{\numberline {6.6}Placa de desarrollo \textit {ESP-WROOM-32}}{22}{section.59}%
+\contentsline {section}{\numberline {6.7}Sistemas de control y conectividad con la nube}{24}{section.63}%
+\contentsline {subsection}{\numberline {6.7.1}El internet de las cosas (IoT)}{24}{subsection.64}%
+\contentsline {subsection}{\numberline {6.7.2}Protocolo de comunicación HTTP}{24}{subsection.66}%
+\contentsline {subsection}{\numberline {6.7.3}Comunicación WiFi con \textit {Dweet.io}}{26}{subsection.69}%
+\contentsline {subsection}{\numberline {6.7.4}Controladores de Fuzzy Logic}{26}{subsection.71}%
+\contentsline {chapter}{\numberline {7}Diseño y ensamblaje del sistema hidropónico}{27}{chapter.72}%
+\contentsline {section}{\numberline {7.1}Diseño de la estructura}{27}{section.73}%
+\contentsline {subsection}{\numberline {7.1.1}Requerimientos físicos y restricciones de espacio}{27}{subsection.74}%
+\contentsline {subsection}{\numberline {7.1.2}Primera iteración, estructura de aluminio}{28}{subsection.75}%
+\contentsline {subsubsection}{Canales de crecimiento}{30}{section*.78}%
+\contentsline {subsection}{\numberline {7.1.3}Segunda iteración, estructura prefabricada}{30}{subsection.80}%
+\contentsline {subsubsection}{Canales de crecimiento}{31}{section*.83}%
+\contentsline {subsection}{\numberline {7.1.4}Comparación de las iteraciones de diseño de la estructura}{33}{subsection.86}%
+\contentsline {subsection}{\numberline {7.1.5}Diseño de componentes auxiliares}{34}{subsection.90}%
+\contentsline {subsection}{\numberline {7.1.6}Modelado CAD de la estructura}{35}{subsection.93}%
+\contentsline {section}{\numberline {7.2}Diseño de circuitos}{36}{section.95}%
+\contentsline {subsection}{\numberline {7.2.1}Características de alimentación de potencia}{36}{subsection.96}%
+\contentsline {subsubsection}{Pruebas físicas de circuitos principales}{37}{section*.98}%
+\contentsline {subsection}{\numberline {7.2.2}Configuración de conexiones para sensores y actuadores}{38}{subsection.101}%
+\contentsline {subsubsection}{Circuito de control de relés}{38}{section*.102}%
+\contentsline {subsubsection}{Sensores de temperatura}{39}{section*.107}%
+\contentsline {subsubsection}{Módulo RTC y luces de crecimiento}{39}{section*.108}%
+\contentsline {subsection}{\numberline {7.2.3}Desarrollo de placa PCB}{40}{subsection.109}%
+\contentsline {section}{\numberline {7.3}Construcción del sistema}{40}{section.110}%
+\contentsline {subsection}{\numberline {7.3.1}Integración de sistemas}{40}{subsection.111}%
+\contentsline {subsubsection}{Conexión de sensores}{40}{section*.112}%
+\contentsline {subsubsection}{Instalación de bomba de circulación de agua}{41}{section*.113}%
+\contentsline {subsubsection}{Instalación de actuadores}{41}{section*.114}%
+\contentsline {chapter}{\numberline {8}Programación del \textit {firmware} del sistema}{43}{chapter.116}%
+\contentsline {section}{\numberline {8.1}Definición de protocolo de comunicación inalámbrica}{43}{section.117}%
+\contentsline {subsection}{\numberline {8.1.1}Conexión inalámbrica mediante WiFi}{43}{subsection.118}%
+\contentsline {subsubsection}{Protocolo HTTP}{44}{section*.119}%
+\contentsline {section}{\numberline {8.2}Configuración de sensores y accionamiento de actuadores}{44}{section.120}%
+\contentsline {chapter}{\numberline {9}Desarrollo de aplicación móvil}{46}{chapter.121}%
+\contentsline {section}{\numberline {9.1}Requisitos de funcionalidad}{46}{section.122}%
+\contentsline {subsection}{\numberline {9.1.1}Diseño de interfaz gráfica}{46}{subsection.123}%
+\contentsline {subsection}{\numberline {9.1.2}Lectura de datos de servidor HTTP}{47}{subsection.125}%
+\contentsline {subsection}{\numberline {9.1.3}Notificaciones}{47}{subsection.126}%
+\contentsline {chapter}{\numberline {10}Evaluación del crecimiento del cilantro}{48}{chapter.127}%
+\contentsline {section}{\numberline {10.1}Cultivo del cilantro en sustrato nutritivo}{48}{section.128}%
+\contentsline {subsection}{\numberline {10.1.1}Período de germinación del cilantro}{48}{subsection.129}%
+\contentsline {subsection}{\numberline {10.1.2}Retos en el desarrollo de retoños}{49}{subsection.132}%
+\contentsline {subsection}{\numberline {10.1.3}Transplante de retoños a sustrato nutritivo de crecimiento}{50}{subsection.133}%
+\contentsline {section}{\numberline {10.2}Cultivo de cilantro en sistema hidropónico}{50}{section.135}%
+\contentsline {subsection}{\numberline {10.2.1}Elementos de soporte para las plantas}{51}{subsection.136}%
+\contentsline {section}{\numberline {10.3}Retos en el cultivo del cilantro durante períodos de prueba}{52}{section.138}%
+\contentsline {section}{\numberline {10.4}Comparaciones del crecimiento del cilantro}{52}{section.139}%
+\contentsline {chapter}{\numberline {11}Conclusiones}{53}{chapter.140}%
+\contentsline {chapter}{\numberline {12}Recomendaciones}{54}{chapter.141}%
+\contentsline {chapter}{\numberline {13}Bibliograf\'{\i }a}{55}{chapter.143}%
+\contentsline {chapter}{\numberline {14}Anexos}{59}{chapter.144}%
+\contentsline {section}{\numberline {14.1}Planos de construcción}{59}{section.145}%

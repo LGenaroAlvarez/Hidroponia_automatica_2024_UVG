@@ -1,0 +1,50 @@
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1}{\ignorespaces Modelo 3D de invernadero propuesto en estudio de factibilidad de cultivos hidropónicos.}}{3}{figure.caption.15}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Granja hidropónica vertical de \textit {Eden Green}. \blx@tocontentsinit {0}\cite {edengreen_10_nodate}}}{4}{figure.caption.17}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Función de membresía de entradas de temperatura para \textit {fuzzy logic}. \blx@tocontentsinit {0}\cite {thazin_iot_2019}}}{5}{figure.caption.19}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Sistema hidropónico implementado en condiciones de laboratorio.}}{6}{figure.caption.21}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5}{\ignorespaces Variedad de métodos de irrigación para cultivos \blx@tocontentsinit {0}\cite {van_os_technical_2019}.}}{12}{figure.caption.31}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Diagrama simplificado de metodología NFT para cultivos hidropónicos \blx@tocontentsinit {0}\cite {NutrientFilmTechnique_2023}.}}{12}{figure.caption.32}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Sensor analógico de oxígeno disuelto \blx@tocontentsinit {0}\cite {DFRobot_DOsensor}.}}{16}{figure.caption.40}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Sensor analógico de electro conductividad \blx@tocontentsinit {0}\cite {DFRobot_ECsensor}.}}{17}{figure.caption.43}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Sensor analógico de potencia de hidrógeno (pH) \blx@tocontentsinit {0}\cite {DFRobot_PHsensor}.}}{19}{figure.caption.47}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Sensor tipo sonda de temperatura del agua \blx@tocontentsinit {0}\cite {la_electronica_DS18B20}.}}{20}{figure.caption.51}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Sensor de temperatura y humedad DHT11 \blx@tocontentsinit {0}\cite {tettsa_dht11}.}}{21}{figure.caption.55}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Módulo RTC DS3231 \blx@tocontentsinit {0}\cite {la_electronica_DS3231}.}}{22}{figure.caption.58}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Componentes de la placa de desarrollo ESP-WROOM-32 \blx@tocontentsinit {0}\cite {electronic_wings_espwroom32}.}}{23}{figure.caption.62}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Diagrama de la arquitectura IoT generalizada \blx@tocontentsinit {0}\cite {grizhnevich_iot_2018}.}}{24}{figure.caption.65}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Estructura de una solicitud para retirar datos en el protocolo HTTP/1.1 \blx@tocontentsinit {0}\cite {overview_http_mozilla_2024}.}}{25}{figure.caption.67}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Diagrama de la comunicación entre cliente y servidor mediante el protocolo HTTP \blx@tocontentsinit {0}\cite {overview_http_mozilla_2024}.}}{25}{figure.caption.68}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Diagrama de la comunicación entre cliente y servidor de \textit {Dweet.io}.}}{26}{figure.caption.70}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {18}{\ignorespaces Estructura inicial diseñada utilizando perfiles de aluminio de dos pulgadas.}}{29}{figure.caption.76}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Perfil horizontal con perforación para tubería de distribución.}}{29}{figure.caption.77}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Bandejas de forraje a utilizarse como canales de crecimiento.}}{30}{figure.caption.79}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Modelo 3D de la estantería prefabricada.}}{31}{figure.caption.81}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Perfil con ranuras de ojo de cerradura.}}{31}{figure.caption.82}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Estructura con canales de crecimiento.}}{32}{figure.caption.84}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Soporte con inclinación de 0.8° para tuberías de crecimiento.}}{33}{figure.caption.85}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Soporte para sensores DHT11 en varillas de 0.5 pulg.}}{34}{figure.caption.91}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Soporte para ventiladores con tornillos de 0.25 pulg.}}{35}{figure.caption.92}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Ensamblaje del modelo CAD de la estructura principal del sistema.}}{35}{figure.caption.94}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Circuito con resistencia calculada para control de ventiladores con relés de 5 VCC.}}{39}{figure.caption.106}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Estructura instalada en vivero con los diferentes componentes instalados y conectados.}}{42}{figure.caption.115}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {30}{\ignorespaces a) Pantalla de inicio de la aplicación. b) Interfaz gráfica principal.}}{47}{figure.caption.124}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {31}{\ignorespaces Semillas germinadas utilizando papel toalla y bolsa resellable.}}{49}{figure.caption.130}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Semillas germinadas utilizando sustrato mecánico inerte.}}{49}{figure.caption.131}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Configuración de los retoños luego de ser transplantados a sustrato nutritivo de crecimiento.}}{50}{figure.caption.134}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Retoño de cilantro con tallo seco y raíces bloqueadas por sales de la solución nutritiva.}}{51}{figure.caption.137}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
