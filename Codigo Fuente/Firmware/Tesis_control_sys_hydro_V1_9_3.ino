@@ -243,7 +243,7 @@ void loop() {
 
       // Analizar parametros y ejecutar ciclos de control
       ambientAirParamsControl();                      // Control de parametros del aire
-      //phRegulationControl();                          // Control de pH
+      phRegulationControl();                          // Control de pH
       fanControl();                                   // Actuacion de ventiladores
     }
 
