@@ -1,0 +1,1686 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{gonzalez_natareno2021_tesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=cd63367e90a48bbb22f818434724f791}{%
+           family={Natareno},
+           familyi={N\bibinitperiod},
+           given={Oscar\bibnamedelimb Antonio\bibnamedelima González},
+           giveni={O\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Del Valle de Guatemala}%
+      }
+      \strng{namehash}{cd63367e90a48bbb22f818434724f791}
+      \strng{fullhash}{cd63367e90a48bbb22f818434724f791}
+      \strng{bibnamehash}{cd63367e90a48bbb22f818434724f791}
+      \strng{authorbibnamehash}{cd63367e90a48bbb22f818434724f791}
+      \strng{authornamehash}{cd63367e90a48bbb22f818434724f791}
+      \strng{authorfullhash}{cd63367e90a48bbb22f818434724f791}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Tesis de licenciatura}
+      \field{title}{Est\underline{}udio de factibilidad de una granja urbana de cultivos hidropónicos localizado en la ciudad de Quetzaltenango, Quetzaltenango.}
+      \field{year}{2021}
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\luisg\\Zotero\\storage\\6H7VVUJR\\González Natareno - 2021 - Estudio de factibilidad de una granja urbana de cu.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://repositorio.uvg.edu.gt/xmlui/handle/123456789/4129
+      \endverb
+      \verb{url}
+      \verb https://repositorio.uvg.edu.gt/xmlui/handle/123456789/4129
+      \endverb
+    \endentry
+    \entry{rajaseger_hydroponics_2023}{article}{}
+      \name{author}{7}{}{%
+        {{hash=332215d52bee0cf7a91f2f8f5a1867f0}{%
+           family={Rajaseger},
+           familyi={R\bibinitperiod},
+           given={Ganapathy},
+           giveni={G\bibinitperiod}}}%
+        {{hash=279e99002ea4367105c10825bc79e5f1}{%
+           family={Chan},
+           familyi={C\bibinitperiod},
+           given={Kit\bibnamedelima Lun},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=7ed9eb5571d239a82aceeb0af0e630b8}{%
+           family={Yee\bibnamedelima Tan},
+           familyi={Y\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Kay},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a67c5c5911111d542465040cc2361d81}{%
+           family={Ramasamy},
+           familyi={R\bibinitperiod},
+           given={Shan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3a43cc1bbdcbee4766f118ae1d97adcb}{%
+           family={Khin},
+           familyi={K\bibinitperiod},
+           given={Mar\bibnamedelima Cho},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=2a4940dcefd0ab930c8d6c454d0dfa6e}{%
+           family={Amaladoss},
+           familyi={A\bibinitperiod},
+           given={Anburaj},
+           giveni={A\bibinitperiod}}}%
+        {{hash=495b1da88ef6ce441844b4e0c2a2ef60}{%
+           family={Kadamb\bibnamedelima Haribhai},
+           familyi={K\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Patel},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{0a28dd575e89c5194d315bc75d5d3239}
+      \strng{fullhash}{b134e1fa80dc20fccc2e522e624a0301}
+      \strng{bibnamehash}{0a28dd575e89c5194d315bc75d5d3239}
+      \strng{authorbibnamehash}{0a28dd575e89c5194d315bc75d5d3239}
+      \strng{authornamehash}{0a28dd575e89c5194d315bc75d5d3239}
+      \strng{authorfullhash}{b134e1fa80dc20fccc2e522e624a0301}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0973-8894}
+      \field{journaltitle}{Bioinformation}
+      \field{month}{9}
+      \field{number}{9}
+      \field{shorttitle}{Hydroponics}
+      \field{title}{Hydroponics: current trends in sustainable crop production}
+      \field{volume}{19}
+      \field{year}{2023}
+      \field{pages}{925\bibrangedash 938}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.6026/97320630019925
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\luisg\\Zotero\\storage\\VXNZX8US\\Rajaseger et al. - 2023 - Hydroponics current trends in sustainable crop pr.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10625363/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10625363/
+      \endverb
+    \endentry
+    \entry{edengreen_10_nodate}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f09752218f62f46e534c19b0a868a752}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={Eden},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{f09752218f62f46e534c19b0a868a752}
+      \strng{fullhash}{f09752218f62f46e534c19b0a868a752}
+      \strng{bibnamehash}{f09752218f62f46e534c19b0a868a752}
+      \strng{authorbibnamehash}{f09752218f62f46e534c19b0a868a752}
+      \strng{authornamehash}{f09752218f62f46e534c19b0a868a752}
+      \strng{authorfullhash}{f09752218f62f46e534c19b0a868a752}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Eden Green}
+      \field{title}{10 {Benefits} of {Hydroponics} in {Agriculture} \& {Vertical} {Farming}}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\luisg\\Zotero\\storage\\4XCPLZYS\\benefits-of-hydroponics.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.edengreen.com/blog-collection/benefits-of-hydroponics
+      \endverb
+      \verb{url}
+      \verb https://www.edengreen.com/blog-collection/benefits-of-hydroponics
+      \endverb
+    \endentry
+    \entry{thazin_iot_2019}{book}{}
+      \name{author}{3}{}{%
+        {{hash=e3702b192e9553756b8440868a77de82}{%
+           family={Thazin},
+           familyi={T\bibinitperiod},
+           given={Theint},
+           giveni={T\bibinitperiod}}}%
+        {{hash=bf87a601fd2f387f27d18c04d98f635c}{%
+           family={Aung},
+           familyi={A\bibinitperiod},
+           given={Zaw},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=0fa1043b9972c2b9335dc23d48c7914d}{%
+           family={Win},
+           familyi={W\bibinitperiod},
+           given={Tun\bibnamedelima Tun},
+           giveni={T\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{780f57fcdbebdae23c389a659d4f628c}
+      \strng{fullhash}{780f57fcdbebdae23c389a659d4f628c}
+      \strng{bibnamehash}{780f57fcdbebdae23c389a659d4f628c}
+      \strng{authorbibnamehash}{780f57fcdbebdae23c389a659d4f628c}
+      \strng{authornamehash}{780f57fcdbebdae23c389a659d4f628c}
+      \strng{authorfullhash}{780f57fcdbebdae23c389a659d4f628c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{{IoT} based {Hydroponic} {Temperature} and {Humidity} {Control} {System} using {Fuzzy} {Logic}}
+      \field{year}{2019}
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\luisg\\Zotero\\storage\\DXPWHUAG\\Thazin et al. - 2019 - IoT based Hydroponic Temperature and Humidity Cont.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{tatas_reliable_2022}{article}{}
+      \name{author}{7}{}{%
+        {{hash=7bd7e1bafeeb1f6270a20a753c57d8c0}{%
+           family={Tatas},
+           familyi={T\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3ed6596db5c18a675704478c58f62544}{%
+           family={Al-Zoubi},
+           familyi={A\bibinithyphendelim Z\bibinitperiod},
+           given={Ahmad},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c1b42ac2e8f7323c7cf19dfafedca3c1}{%
+           family={Christofides},
+           familyi={C\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=54268cc00dac1713fc1753f2fd66a03c}{%
+           family={Zannettis},
+           familyi={Z\bibinitperiod},
+           given={Chrysostomos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=abfeed6daea3a41fca98c19451829a8f}{%
+           family={Chrysostomou},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7f8ab0c5e62cbead051e0debe89cc636}{%
+           family={Panteli},
+           familyi={P\bibinitperiod},
+           given={Stavros},
+           giveni={S\bibinitperiod}}}%
+        {{hash=816f4abf59b42941e99b2a6f997e6fae}{%
+           family={Antoniou},
+           familyi={A\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{24970cd4914686011012d29fa3db0725}
+      \strng{fullhash}{25af7b8b38b9f99af1615c320b06e58c}
+      \strng{bibnamehash}{24970cd4914686011012d29fa3db0725}
+      \strng{authorbibnamehash}{24970cd4914686011012d29fa3db0725}
+      \strng{authornamehash}{24970cd4914686011012d29fa3db0725}
+      \strng{authorfullhash}{25af7b8b38b9f99af1615c320b06e58c}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2227-7080}
+      \field{journaltitle}{Technologies}
+      \field{month}{2}
+      \field{note}{Number: 1 Publisher: Multidisciplinary Digital Publishing Institute}
+      \field{number}{1}
+      \field{title}{Reliable {IoT}-{Based} {Monitoring} and {Control} of {Hydroponic} {Systems}}
+      \field{volume}{10}
+      \field{year}{2022}
+      \field{pages}{26}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/technologies10010026
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\luisg\\Zotero\\storage\\PVPJI64N\\Tatas et al. - 2022 - Reliable IoT-Based Monitoring and Control of Hydro.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2227-7080/10/1/26
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2227-7080/10/1/26
+      \endverb
+      \keyw{hydroponics,IoT,smart agriculture,wireless sensor networks}
+    \endentry
+    \entry{bacco_digitisation_2019}{article}{}
+      \name{author}{5}{}{%
+        {{hash=a2255b9503e8f1c36938adbe42e56706}{%
+           family={Bacco},
+           familyi={B\bibinitperiod},
+           given={Manlio},
+           giveni={M\bibinitperiod}}}%
+        {{hash=559e951c5392236b7a13087dcce4f213}{%
+           family={Barsocchi},
+           familyi={B\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f14ad26dc70cab09940ee8fc64bada70}{%
+           family={Ferro},
+           familyi={F\bibinitperiod},
+           given={Erina},
+           giveni={E\bibinitperiod}}}%
+        {{hash=8958d5ce9075efecc06bf019892e19f8}{%
+           family={Gotta},
+           familyi={G\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b07f44e2a4d6a52ef90894366efd5f00}{%
+           family={Ruggeri},
+           familyi={R\bibinitperiod},
+           given={Massimiliano},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e0a3de173a7859e333384c9e653048c}
+      \strng{fullhash}{c090a06f830698be9cf09fcf5ea2e4ee}
+      \strng{bibnamehash}{c090a06f830698be9cf09fcf5ea2e4ee}
+      \strng{authorbibnamehash}{c090a06f830698be9cf09fcf5ea2e4ee}
+      \strng{authornamehash}{2e0a3de173a7859e333384c9e653048c}
+      \strng{authorfullhash}{c090a06f830698be9cf09fcf5ea2e4ee}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2590-0056}
+      \field{journaltitle}{Array}
+      \field{month}{9}
+      \field{shorttitle}{The {Digitisation} of {Agriculture}}
+      \field{title}{The {Digitisation} of {Agriculture}: a {Survey} of {Research} {Activities} on {Smart} {Farming}}
+      \field{volume}{3-4}
+      \field{year}{2019}
+      \field{pages}{100009}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.array.2019.100009
+      \endverb
+      \verb{file}
+      \verb Full Text:C\:\\Users\\luisg\\Zotero\\storage\\2WY42FGZ\\Bacco et al. - 2019 - The Digitisation of Agriculture a Survey of Resea.pdf:application/pdf;ScienceDirect Snapshot:C\:\\Users\\luisg\\Zotero\\storage\\A6I7U8VY\\S2590005619300098.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2590005619300098
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2590005619300098
+      \endverb
+      \keyw{5G,Cloud computing,Edge computing,MEC,Precision farming,Satellite,Smart farming,UAV}
+    \endentry
+    \entry{raviv_soilless_2019}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=f8b9afaf88f15a57e294845a58762b8c}{%
+           family={Raviv},
+           familyi={R\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8908622059352ae3d3bfd54fedd3eea4}{%
+           family={Lieth},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi Heinrich},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=e0e6fa00e1ceece9c54eb60c280f3fed}{%
+           family={Bar-Tal},
+           familyi={B\bibinithyphendelim T\bibinitperiod},
+           given={Asher},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=f8b9afaf88f15a57e294845a58762b8c}{%
+           family={Raviv},
+           familyi={R\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8908622059352ae3d3bfd54fedd3eea4}{%
+           family={Lieth},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi Heinrich},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=e0e6fa00e1ceece9c54eb60c280f3fed}{%
+           family={Bar-Tal},
+           familyi={B\bibinithyphendelim T\bibinitperiod},
+           given={Asher},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7f9eb58c949285a8614bdde254c47d05}
+      \strng{fullhash}{7f9eb58c949285a8614bdde254c47d05}
+      \strng{bibnamehash}{7f9eb58c949285a8614bdde254c47d05}
+      \strng{authorbibnamehash}{7f9eb58c949285a8614bdde254c47d05}
+      \strng{authornamehash}{7f9eb58c949285a8614bdde254c47d05}
+      \strng{authorfullhash}{7f9eb58c949285a8614bdde254c47d05}
+      \strng{editorbibnamehash}{7f9eb58c949285a8614bdde254c47d05}
+      \strng{editornamehash}{7f9eb58c949285a8614bdde254c47d05}
+      \strng{editorfullhash}{7f9eb58c949285a8614bdde254c47d05}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Soilless {Culture} ({Second} {Edition})}
+      \field{isbn}{978-0-444-63696-6}
+      \field{month}{1}
+      \field{title}{Chapter 1 - {Significance} of {Soilless} {Culture} in {Agriculture}}
+      \field{year}{2019}
+      \field{pages}{3\bibrangedash 14}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/B978-0-444-63696-6.00001-3
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:C\:\\Users\\luisg\\Zotero\\storage\\BQ65AVNE\\B9780444636966000013.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780444636966000013
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780444636966000013
+      \endverb
+      \keyw{Bark,coconut coir,glass wool,growing medium,hydroponics,peat,sawdust,soil,soil-borne disease,soilless culture,stone wool,substrate,tuff}
+    \endentry
+    \entry{van_os_technical_2019}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=b59697c3cff19139cc6fba3b43aeb4b7}{%
+           family={Os},
+           familyi={O\bibinitperiod},
+           given={E.\bibnamedelimi A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=f01ffd67d9e01c7a85a2e66d5eb0fb7a}{%
+           family={Gieling},
+           familyi={G\bibinitperiod},
+           given={Th.\bibnamedelimi H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=8908622059352ae3d3bfd54fedd3eea4}{%
+           family={Lieth},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi Heinrich},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=f8b9afaf88f15a57e294845a58762b8c}{%
+           family={Raviv},
+           familyi={R\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8908622059352ae3d3bfd54fedd3eea4}{%
+           family={Lieth},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi Heinrich},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=e0e6fa00e1ceece9c54eb60c280f3fed}{%
+           family={Bar-Tal},
+           familyi={B\bibinithyphendelim T\bibinitperiod},
+           given={Asher},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{029e2671465b748867cd93e909520424}
+      \strng{fullhash}{029e2671465b748867cd93e909520424}
+      \strng{bibnamehash}{029e2671465b748867cd93e909520424}
+      \strng{authorbibnamehash}{029e2671465b748867cd93e909520424}
+      \strng{authornamehash}{029e2671465b748867cd93e909520424}
+      \strng{authorfullhash}{029e2671465b748867cd93e909520424}
+      \strng{editorbibnamehash}{7f9eb58c949285a8614bdde254c47d05}
+      \strng{editornamehash}{7f9eb58c949285a8614bdde254c47d05}
+      \strng{editorfullhash}{7f9eb58c949285a8614bdde254c47d05}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Soilless {Culture} ({Second} {Edition})}
+      \field{isbn}{978-0-444-63696-6}
+      \field{month}{1}
+      \field{title}{Chapter 13 - {Technical} {Equipment} in {Soilless} {Production} {Systems}}
+      \field{year}{2019}
+      \field{pages}{587\bibrangedash 635}
+      \range{pages}{49}
+      \verb{doi}
+      \verb 10.1016/B978-0-444-63696-6.00013-X
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:C\:\\Users\\luisg\\Zotero\\storage\\R2DWRL22\\B978044463696600013X.html:text/html;van Os et al. - 2019 - Chapter 13 - Technical Equipment in Soilless Produ.pdf:C\:\\Users\\luisg\\Zotero\\storage\\FG5YJDGK\\van Os et al. - 2019 - Chapter 13 - Technical Equipment in Soilless Produ.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B978044463696600013X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B978044463696600013X
+      \endverb
+      \keyw{aerohydroponics,Injectors,Ion-selective electrode (ISE),polyethylene,polypropylene,polyvinyl chloride (PVC)}
+    \endentry
+    \entry{baiyin_flow_rate_2021}{article}{}
+      \name{author}{7}{}{%
+        {{hash=a0b2ee9f139d4d3e19da5c8239cb019c}{%
+           family={Baiyin},
+           familyi={B\bibinitperiod},
+           given={Bateer},
+           giveni={B\bibinitperiod}}}%
+        {{hash=a575afd4a561df99baf0a0e570b53a4b}{%
+           family={Tagawa},
+           familyi={T\bibinitperiod},
+           given={Kotaro},
+           giveni={K\bibinitperiod}}}%
+        {{hash=adf19631bcc83e97ab24d9b54a857fcf}{%
+           family={Yamada},
+           familyi={Y\bibinitperiod},
+           given={Mina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=12cb07d4b206ef1d933726c4a043d679}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xinyan},
+           giveni={X\bibinitperiod}}}%
+        {{hash=37c42241e21906af536913c85b1141f8}{%
+           family={Yamada},
+           familyi={Y\bibinitperiod},
+           given={Satoshi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a5801289f2d76dba934680c14b06a056}{%
+           family={Yamamoto},
+           familyi={Y\bibinitperiod},
+           given={Sadahiro},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9d0c3214c2e35b057a30756949d818e0}{%
+           family={Ibaraki},
+           familyi={I\bibinitperiod},
+           given={Yasuomi},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{6a025afdbff11019a3310891d6912edd}
+      \strng{fullhash}{65995a2b5b62f589725aa6a9775867f6}
+      \strng{bibnamehash}{6a025afdbff11019a3310891d6912edd}
+      \strng{authorbibnamehash}{6a025afdbff11019a3310891d6912edd}
+      \strng{authornamehash}{6a025afdbff11019a3310891d6912edd}
+      \strng{authorfullhash}{65995a2b5b62f589725aa6a9775867f6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2311-7524}
+      \field{journaltitle}{Horticulturae}
+      \field{month}{8}
+      \field{note}{Number: 8 Publisher: Multidisciplinary Digital Publishing Institute}
+      \field{number}{8}
+      \field{title}{Effect of the {Flow} {Rate} on {Plant} {Growth} and {Flow} {Visualization} of {Nutrient} {Solution} in {Hydroponics}}
+      \field{volume}{7}
+      \field{year}{2021}
+      \field{pages}{225}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/horticulturae7080225
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\luisg\\Zotero\\storage\\4G9LFPAI\\Baiyin et al. - 2021 - Effect of the Flow Rate on Plant Growth and Flow V.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2311-7524/7/8/225
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2311-7524/7/8/225
+      \endverb
+      \keyw{drylands agriculture,flow visualization,hydroponics,nutrient uptake,particle image velocimetry}
+    \endentry
+    \entry{al-tawaha_flow_rate_nft_2018}{article}{}
+      \name{author}{9}{}{%
+        {{hash=c18729ccd52a5356f98020e72b6fd838}{%
+           family={Al-Tawaha},
+           familyi={A\bibinithyphendelim T\bibinitperiod},
+           given={Abdel\bibnamedelima Razzaq},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=5d28936faa2ab87723abff6bc915c1ad}{%
+           family={Al-Karaki},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={Ghazi},
+           giveni={G\bibinitperiod}}}%
+        {{hash=ddd4c4276544798451ce1d2bd97a776a}{%
+           family={Al-Tawaha},
+           familyi={A\bibinithyphendelim T\bibinitperiod},
+           given={Abdel\bibnamedelima Rahman},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=be697fd856dbe9ad9099387a4669b849}{%
+           family={Sirajuddin},
+           familyi={S\bibinitperiod},
+           given={Sitti\bibnamedelima Nurani},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=69556b4c68e572c6d89ba74588125d55}{%
+           family={Makhadmeh},
+           familyi={M\bibinitperiod},
+           given={Ibrahim},
+           giveni={I\bibinitperiod}}}%
+        {{hash=2c0e768a39d42bb0dd3c699179193ad6}{%
+           family={Wahab},
+           familyi={W\bibinitperiod},
+           given={Puteri\bibnamedelimb Edaroyati\bibnamedelima Megat},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=170a6d58d3abf9fb9d3adc577d2292fb}{%
+           family={Youssef},
+           familyi={Y\bibinitperiod},
+           given={Refat\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c7e562e1e9cd397b6a12a8b688ac4dc9}{%
+           family={Sultan},
+           familyi={S\bibinitperiod},
+           given={Wael\bibnamedelima Al},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a00d29ee2a01fcba3f6b1c5ed9e97a48}{%
+           family={Massadeh},
+           familyi={M\bibinitperiod},
+           given={Adnan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1ef2a5790b302c347e9379a9952e1eae}
+      \strng{fullhash}{c4657da4718370062bcabf12fb7c531b}
+      \strng{bibnamehash}{1ef2a5790b302c347e9379a9952e1eae}
+      \strng{authorbibnamehash}{1ef2a5790b302c347e9379a9952e1eae}
+      \strng{authornamehash}{1ef2a5790b302c347e9379a9952e1eae}
+      \strng{authorfullhash}{c4657da4718370062bcabf12fb7c531b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bulgarian Journal of Agricultural Science,}
+      \field{number}{No 5}
+      \field{title}{Effect of water ﬂow rate on quantity and quality of lettuce ({Lactuca} sativa {L}.) in nutrient ﬁlm technique ({NFT}) under hydroponics conditions}
+      \field{volume}{24}
+      \field{year}{2018}
+      \field{pages}{793\bibrangedash 800}
+      \range{pages}{8}
+      \verb{file}
+      \verb Al-Tawaha et al. - Effect of water ﬂow rate on quantity and quality o.pdf:C\:\\Users\\luisg\\Zotero\\storage\\WHYIIYF7\\Al-Tawaha et al. - Effect of water ﬂow rate on quantity and quality o.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{NutrientFilmTechnique_2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=37dd4ee86dd44eeb00ac0fdfd95a6e63}{%
+           family={Adelmann},
+           familyi={A\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{37dd4ee86dd44eeb00ac0fdfd95a6e63}
+      \strng{fullhash}{37dd4ee86dd44eeb00ac0fdfd95a6e63}
+      \strng{bibnamehash}{37dd4ee86dd44eeb00ac0fdfd95a6e63}
+      \strng{authorbibnamehash}{37dd4ee86dd44eeb00ac0fdfd95a6e63}
+      \strng{authornamehash}{37dd4ee86dd44eeb00ac0fdfd95a6e63}
+      \strng{authorfullhash}{37dd4ee86dd44eeb00ac0fdfd95a6e63}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{What is the {Hydroponic} {Nutrient}-{Film}-{Technique} ({NFT})}
+      \field{year}{2023}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\luisg\\Zotero\\storage\\3U5AR574\\hydroponic-nutrient-film-technique-nft.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://hydroplanner.com/blog/hydroponic-nutrient-film-technique-nft
+      \endverb
+      \verb{url}
+      \verb https://hydroplanner.com/blog/hydroponic-nutrient-film-technique-nft
+      \endverb
+    \endentry
+    \entry{marulanda_huerta_2003}{article}{}
+      \name{author}{2}{}{%
+        {{hash=84bad23022b7472d0e2bd53fd08aad03}{%
+           family={Marulanda},
+           familyi={M\bibinitperiod},
+           given={César},
+           giveni={C\bibinitperiod}}}%
+        {{hash=22e1ae6fbcc029862cd3ebf30e55d2ce}{%
+           family={Izquierdo},
+           familyi={I\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {es}%
+      }
+      \strng{namehash}{bf67f34b4f6e8cc615d145dca902e533}
+      \strng{fullhash}{bf67f34b4f6e8cc615d145dca902e533}
+      \strng{bibnamehash}{bf67f34b4f6e8cc615d145dca902e533}
+      \strng{authorbibnamehash}{bf67f34b4f6e8cc615d145dca902e533}
+      \strng{authornamehash}{bf67f34b4f6e8cc615d145dca902e533}
+      \strng{authorfullhash}{bf67f34b4f6e8cc615d145dca902e533}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{LA} {HUERTA} {HIDROPONICA} {POPULAR}}
+      \field{year}{2003}
+      \verb{file}
+      \verb Marulanda and Izquierdo - LA HUERTA HIDROPONICA POPULAR.pdf:C\:\\Users\\luisg\\Zotero\\storage\\PEA4CJ8V\\Marulanda and Izquierdo - LA HUERTA HIDROPONICA POPULAR.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{atlas_scientific_nutrient_2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d6529a8dc4994e398a53da496920c8cd}{%
+           family={Scientific},
+           familyi={S\bibinitperiod},
+           given={Atlas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{d6529a8dc4994e398a53da496920c8cd}
+      \strng{fullhash}{d6529a8dc4994e398a53da496920c8cd}
+      \strng{bibnamehash}{d6529a8dc4994e398a53da496920c8cd}
+      \strng{authorbibnamehash}{d6529a8dc4994e398a53da496920c8cd}
+      \strng{authornamehash}{d6529a8dc4994e398a53da496920c8cd}
+      \strng{authorfullhash}{d6529a8dc4994e398a53da496920c8cd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Atlas Scientific}
+      \field{month}{8}
+      \field{title}{Nutrient {Solution} {For} {Hydroponics} - {The} {Ultimate} {Guide}}
+      \field{year}{2023}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\luisg\\Zotero\\storage\\7H7EZJSV\\nutrient-solution-for-hydroponics.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://atlas-scientific.com/blog/nutrient-solution-for-hydroponics/
+      \endverb
+      \verb{url}
+      \verb https://atlas-scientific.com/blog/nutrient-solution-for-hydroponics/
+      \endverb
+    \endentry
+    \entry{letpot_nodate}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=fa99ce170fe424c216e2ea55c7d93c96}{%
+           family={LetPot},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{fa99ce170fe424c216e2ea55c7d93c96}
+      \strng{fullhash}{fa99ce170fe424c216e2ea55c7d93c96}
+      \strng{bibnamehash}{fa99ce170fe424c216e2ea55c7d93c96}
+      \strng{authorbibnamehash}{fa99ce170fe424c216e2ea55c7d93c96}
+      \strng{authornamehash}{fa99ce170fe424c216e2ea55c7d93c96}
+      \strng{authorfullhash}{fa99ce170fe424c216e2ea55c7d93c96}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{LetPot's garden}
+      \field{shorttitle}{How to grow cilantro hydroponically indoors}
+      \field{title}{How to grow cilantro hydroponically indoors: {A} {Beginner}’s {Guide}}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\luisg\\Zotero\\storage\\C7QTCD4E\\how-to-grow-cilantro-hydroponically-indoors-a-beginner-s-guide.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://letpot.com/blogs/hydroponic-plant-growing-knowledge-and-tips/how-to-grow-cilantro-hydroponically-indoors-a-beginner-s-guide
+      \endverb
+      \verb{url}
+      \verb https://letpot.com/blogs/hydroponic-plant-growing-knowledge-and-tips/how-to-grow-cilantro-hydroponically-indoors-a-beginner-s-guide
+      \endverb
+    \endentry
+    \entry{voogt_nutrient_2019}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=c92940025d4c910a3fadd2d2c518e8f9}{%
+           family={Voogt},
+           familyi={V\bibinitperiod},
+           given={Wim},
+           giveni={W\bibinitperiod}}}%
+        {{hash=fa292ed6df8d72317ffce219ac7fd99d}{%
+           family={Bar-Yosef},
+           familyi={B\bibinithyphendelim Y\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=f8b9afaf88f15a57e294845a58762b8c}{%
+           family={Raviv},
+           familyi={R\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8908622059352ae3d3bfd54fedd3eea4}{%
+           family={Lieth},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi Heinrich},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=e0e6fa00e1ceece9c54eb60c280f3fed}{%
+           family={Bar-Tal},
+           familyi={B\bibinithyphendelim T\bibinitperiod},
+           given={Asher},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6b8344cde49a7c673e7a348b4887b632}
+      \strng{fullhash}{6b8344cde49a7c673e7a348b4887b632}
+      \strng{bibnamehash}{6b8344cde49a7c673e7a348b4887b632}
+      \strng{authorbibnamehash}{6b8344cde49a7c673e7a348b4887b632}
+      \strng{authornamehash}{6b8344cde49a7c673e7a348b4887b632}
+      \strng{authorfullhash}{6b8344cde49a7c673e7a348b4887b632}
+      \strng{editorbibnamehash}{7f9eb58c949285a8614bdde254c47d05}
+      \strng{editornamehash}{7f9eb58c949285a8614bdde254c47d05}
+      \strng{editorfullhash}{7f9eb58c949285a8614bdde254c47d05}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Soilless {Culture} ({Second} {Edition})}
+      \field{isbn}{978-0-444-63696-6}
+      \field{month}{1}
+      \field{title}{Chapter 10 - {Water} and {Nutrient} {Management} and {Crops} {Response} to {Nutrient} {Solution} {Recycling} in {Soilless} {Growing} {Systems} in {Greenhouses}}
+      \field{year}{2019}
+      \field{pages}{425\bibrangedash 507}
+      \range{pages}{83}
+      \verb{doi}
+      \verb 10.1016/B978-0-444-63696-6.00010-4
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:C\:\\Users\\luisg\\Zotero\\storage\\LRK95SAT\\B9780444636966000104.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780444636966000104
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780444636966000104
+      \endverb
+      \keyw{Closed system,DFT,discharge rate,discharge strategy,dissolved organic carbon,EC control,hydroponics,K:Ca ratio,leaching fraction,modelling,Na accumulation,NFT,NH:NO ratio,nutrient accumulation,nutrient depletion,nutrient replenishment,pH control,recirculation,salinity,target nutrient concentration,threshold EC,uptake concentration,water quality}
+    \endentry
+    \entry{currey_nutrient_2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5aef19d243148d5aa5b25f2d15b0fa1f}{%
+           family={Currey},
+           familyi={C\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+        {{hash=78942c7cd6b65229677ffe6197d6b36d}{%
+           family={Walters},
+           familyi={W\bibinitperiod},
+           given={Kellie},
+           giveni={K\bibinitperiod}}}%
+        {{hash=815ce129098478f1fc1f48bd4701865c}{%
+           family={Flax},
+           familyi={F\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{10a58ae2dd535d1ddf094ecdddcd15f1}
+      \strng{fullhash}{10a58ae2dd535d1ddf094ecdddcd15f1}
+      \strng{bibnamehash}{10a58ae2dd535d1ddf094ecdddcd15f1}
+      \strng{authorbibnamehash}{10a58ae2dd535d1ddf094ecdddcd15f1}
+      \strng{authornamehash}{10a58ae2dd535d1ddf094ecdddcd15f1}
+      \strng{authorfullhash}{10a58ae2dd535d1ddf094ecdddcd15f1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Agronomy}
+      \field{month}{7}
+      \field{title}{Nutrient {Solution} {Strength} {Does} {Not} {Interact} with the {Daily} {Light} {Integral} to {Affect} {Hydroponic} {Cilantro}, {Dill}, and {Parsley} {Growth} and {Tissue} {Mineral} {Nutrient} {Concentrations}}
+      \field{volume}{9}
+      \field{year}{2019}
+      \field{pages}{389}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/agronomy9070389
+      \endverb
+      \verb{file}
+      \verb Full Text:C\:\\Users\\luisg\\Zotero\\storage\\U95Y7IWF\\Currey et al. - 2019 - Nutrient Solution Strength Does Not Interact with .pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{mondol_use_2023}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8d5421f01cc37ee83075833b0741addc}{%
+           family={Mondol},
+           familyi={M\bibinitperiod},
+           given={Shreya},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1b8fe168416f1452fc6dfda0b9dfffce}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Ankan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3777d1f9285e66979257fb0cc61ebef1}
+      \strng{fullhash}{3777d1f9285e66979257fb0cc61ebef1}
+      \strng{bibnamehash}{3777d1f9285e66979257fb0cc61ebef1}
+      \strng{authorbibnamehash}{3777d1f9285e66979257fb0cc61ebef1}
+      \strng{authornamehash}{3777d1f9285e66979257fb0cc61ebef1}
+      \strng{authorfullhash}{3777d1f9285e66979257fb0cc61ebef1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ecology, Environment and Conservation}
+      \field{month}{1}
+      \field{title}{Use of {Low} {Cost} {Hydroponics} {Technique} for {Growing} {Coriander} at {Laboratory} {Conditions}}
+      \field{volume}{29}
+      \field{year}{2023}
+      \field{pages}{589\bibrangedash 595}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.53550/EEC.2023.v29i02.009
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\luisg\\Zotero\\storage\\PKLRA7QC\\Mondol and Das - 2023 - Use of Low Cost Hydroponics Technique for Growing .pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{roosta_responses_2024}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3d9b85973b98ab76699d88aabb3521d5}{%
+           family={Roosta},
+           familyi={R\bibinitperiod},
+           given={Hamid\bibnamedelima Reza},
+           giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3d9b85973b98ab76699d88aabb3521d5}
+      \strng{fullhash}{3d9b85973b98ab76699d88aabb3521d5}
+      \strng{bibnamehash}{3d9b85973b98ab76699d88aabb3521d5}
+      \strng{authorbibnamehash}{3d9b85973b98ab76699d88aabb3521d5}
+      \strng{authornamehash}{3d9b85973b98ab76699d88aabb3521d5}
+      \strng{authorfullhash}{3d9b85973b98ab76699d88aabb3521d5}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1471-2229}
+      \field{journaltitle}{BMC Plant Biology}
+      \field{month}{4}
+      \field{number}{1}
+      \field{title}{The responses of pepper plants to nitrogen form and dissolved oxygen concentration of nutrient solution in hydroponics}
+      \field{volume}{24}
+      \field{year}{2024}
+      \field{pages}{281}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12870-024-04943-7
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\luisg\\Zotero\\storage\\JJAJ4FK9\\Roosta - 2024 - The responses of pepper plants to nitrogen form an.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s12870-024-04943-7
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s12870-024-04943-7
+      \endverb
+      \keyw{Ammonium,Capsicum annuum,Nitrate,Oxygen,Soilless culture}
+    \endentry
+    \entry{DFRobot_DOsensor}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c7ff2b6b5779cfabbdbe760c4fd6db92}{%
+           family={DFRobot},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c7ff2b6b5779cfabbdbe760c4fd6db92}
+      \strng{fullhash}{c7ff2b6b5779cfabbdbe760c4fd6db92}
+      \strng{bibnamehash}{c7ff2b6b5779cfabbdbe760c4fd6db92}
+      \strng{authorbibnamehash}{c7ff2b6b5779cfabbdbe760c4fd6db92}
+      \strng{authornamehash}{c7ff2b6b5779cfabbdbe760c4fd6db92}
+      \strng{authorfullhash}{c7ff2b6b5779cfabbdbe760c4fd6db92}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gravity Analog Dissolved Oxygen Sensor: SEN0237-{DFRobot}}
+      \verb{file}
+      \verb Gravity__Analog_Dissolved_Oxygen_Sensor_SKU_SEN0237-DFRobot:C\:\\Users\\luisg\\Zotero\\storage\\WMYBXKPZ\\Gravity__Analog_Dissolved_Oxygen_Sensor_SKU_SEN0237.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://wiki.dfrobot.com/Gravity__Analog_Dissolved_Oxygen_Sensor_SKU_SEN0237#top
+      \endverb
+      \verb{url}
+      \verb https://wiki.dfrobot.com/Gravity__Analog_Dissolved_Oxygen_Sensor_SKU_SEN0237#top
+      \endverb
+    \endentry
+    \entry{DFRobot_ECsensor}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c7ff2b6b5779cfabbdbe760c4fd6db92}{%
+           family={DFRobot},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c7ff2b6b5779cfabbdbe760c4fd6db92}
+      \strng{fullhash}{c7ff2b6b5779cfabbdbe760c4fd6db92}
+      \strng{bibnamehash}{c7ff2b6b5779cfabbdbe760c4fd6db92}
+      \strng{authorbibnamehash}{c7ff2b6b5779cfabbdbe760c4fd6db92}
+      \strng{authornamehash}{c7ff2b6b5779cfabbdbe760c4fd6db92}
+      \strng{authorfullhash}{c7ff2b6b5779cfabbdbe760c4fd6db92}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gravity Analog Electrical Conductivity Sensor Meter V2 K=1 DFR0300-{DFRobot}}
+      \verb{file}
+      \verb Gravity__Analog_Electrical_Conductivity_Sensor___Meter_V2__K=1__SKU_DFR0300-DFRobot:C\:\\Users\\luisg\\Zotero\\storage\\A6VQCSP9\\Gravity__Analog_Electrical_Conductivity_Sensor___Meter_V2__K=1__SKU_DFR0300.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://wiki.dfrobot.com/Gravity__Analog_Electrical_Conductivity_Sensor___Meter_V2__K=1__SKU_DFR0300
+      \endverb
+      \verb{url}
+      \verb https://wiki.dfrobot.com/Gravity__Analog_Electrical_Conductivity_Sensor___Meter_V2__K=1__SKU_DFR0300
+      \endverb
+    \endentry
+    \entry{chang_quimica_1995}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=139e707a446c1a81b230375c8c5cf661}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Raymond},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4897055e93a9da28da0411d5f0692bfc}{%
+           family={Goldsby},
+           familyi={G\bibinitperiod},
+           given={Kenneth\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {Español}%
+      }
+      \list{location}{1}{%
+        {México D.F.}%
+      }
+      \list{publisher}{1}{%
+        {Mc. Graw-Hill/Interamericana Editores, S.A. De C. V.}%
+      }
+      \strng{namehash}{e72ac3d8dafdc6f613cec498bf80fac4}
+      \strng{fullhash}{e72ac3d8dafdc6f613cec498bf80fac4}
+      \strng{bibnamehash}{e72ac3d8dafdc6f613cec498bf80fac4}
+      \strng{authorbibnamehash}{e72ac3d8dafdc6f613cec498bf80fac4}
+      \strng{authornamehash}{e72ac3d8dafdc6f613cec498bf80fac4}
+      \strng{authorfullhash}{e72ac3d8dafdc6f613cec498bf80fac4}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Química}
+      \field{title}{Química}
+      \field{year}{1995}
+    \endentry
+    \entry{wada_theory_2019}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=0626942fea832cd59d296590d4409a2b}{%
+           family={Wada},
+           familyi={W\bibinitperiod},
+           given={Teruo},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=28838800567ee8b2c07c2a7866f3e982}{%
+           family={Anpo},
+           familyi={A\bibinitperiod},
+           given={Masakazu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2f500107999b133fb94323cc3026b50b}{%
+           family={Fukuda},
+           familyi={F\bibinitperiod},
+           given={Hirokazu},
+           giveni={H\bibinitperiod}}}%
+        {{hash=0626942fea832cd59d296590d4409a2b}{%
+           family={Wada},
+           familyi={W\bibinitperiod},
+           given={Teruo},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0626942fea832cd59d296590d4409a2b}
+      \strng{fullhash}{0626942fea832cd59d296590d4409a2b}
+      \strng{bibnamehash}{0626942fea832cd59d296590d4409a2b}
+      \strng{authorbibnamehash}{0626942fea832cd59d296590d4409a2b}
+      \strng{authornamehash}{0626942fea832cd59d296590d4409a2b}
+      \strng{authorfullhash}{0626942fea832cd59d296590d4409a2b}
+      \strng{editorbibnamehash}{1dc2946fb7ddc857e0edf013f8608b7a}
+      \strng{editornamehash}{1dc2946fb7ddc857e0edf013f8608b7a}
+      \strng{editorfullhash}{1dc2946fb7ddc857e0edf013f8608b7a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-12-813973-8}
+      \field{month}{1}
+      \field{title}{Chapter 1.1 - {Theory} and {Technology} to {Control} the {Nutrient} {Solution} of {Hydroponics}}
+      \field{year}{2019}
+      \field{pages}{5\bibrangedash 14}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/B978-0-12-813973-8.00001-4
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:C\:\\Users\\luisg\\Zotero\\storage\\MU4L33EH\\B9780128139738000014.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780128139738000014
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780128139738000014
+      \endverb
+      \keyw{Electric conductivity (EC),Essential elements,Hydroponics,Nutrient composition,Nutrient solution,Nutrient uptake,pH}
+    \endentry
+    \entry{DFRobot_PHsensor}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c7ff2b6b5779cfabbdbe760c4fd6db92}{%
+           family={DFRobot},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c7ff2b6b5779cfabbdbe760c4fd6db92}
+      \strng{fullhash}{c7ff2b6b5779cfabbdbe760c4fd6db92}
+      \strng{bibnamehash}{c7ff2b6b5779cfabbdbe760c4fd6db92}
+      \strng{authorbibnamehash}{c7ff2b6b5779cfabbdbe760c4fd6db92}
+      \strng{authornamehash}{c7ff2b6b5779cfabbdbe760c4fd6db92}
+      \strng{authorfullhash}{c7ff2b6b5779cfabbdbe760c4fd6db92}
+      \field{extraname}{3}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{PH}\_meter\_SKU\_\_SEN0161\_-{DFRobot}}
+      \verb{file}
+      \verb PH_meter_SKU__SEN0161_-DFRobot:C\:\\Users\\luisg\\Zotero\\storage\\NDFBQHNY\\PH_meter_SKU__SEN0161_.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://wiki.dfrobot.com/PH_meter_SKU__SEN0161_
+      \endverb
+      \verb{url}
+      \verb https://wiki.dfrobot.com/PH_meter_SKU__SEN0161_
+      \endverb
+    \endentry
+    \entry{la_electronica_DS18B20}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8c0b30e2e8864c9cffb7201b6fb1a8de}{%
+           family={Electrónica},
+           familyi={E\bibinitperiod},
+           given={La},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {es}%
+      }
+      \strng{namehash}{8c0b30e2e8864c9cffb7201b6fb1a8de}
+      \strng{fullhash}{8c0b30e2e8864c9cffb7201b6fb1a8de}
+      \strng{bibnamehash}{8c0b30e2e8864c9cffb7201b6fb1a8de}
+      \strng{authorbibnamehash}{8c0b30e2e8864c9cffb7201b6fb1a8de}
+      \strng{authornamehash}{8c0b30e2e8864c9cffb7201b6fb1a8de}
+      \strng{authorfullhash}{8c0b30e2e8864c9cffb7201b6fb1a8de}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{La Electrónica}
+      \field{title}{Sensor de temperatura tipo sonda {DS18B20}}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\luisg\\Zotero\\storage\\NG2RGZHK\\sensor-de-temperatura-tipo-sonda-ds18b20.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://laelectronica.com.gt/sensor-de-temperatura-tipo-sonda-ds18b20
+      \endverb
+      \verb{url}
+      \verb https://laelectronica.com.gt/sensor-de-temperatura-tipo-sonda-ds18b20
+      \endverb
+    \endentry
+    \entry{chia_critical_2022}{article}{}
+      \name{author}{2}{}{%
+        {{hash=29364875711b488b1d18ffca6b466aa7}{%
+           family={Chia},
+           familyi={C\bibinitperiod},
+           given={S.\bibnamedelimi Y.},
+           giveni={S\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=4599272d20fb389b61ddfb10fac95d93}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={M.\bibnamedelimi W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{29366adb70da4cccd7acaf4f404b3e9d}
+      \strng{fullhash}{29366adb70da4cccd7acaf4f404b3e9d}
+      \strng{bibnamehash}{29366adb70da4cccd7acaf4f404b3e9d}
+      \strng{authorbibnamehash}{29366adb70da4cccd7acaf4f404b3e9d}
+      \strng{authornamehash}{29366adb70da4cccd7acaf4f404b3e9d}
+      \strng{authorfullhash}{29366adb70da4cccd7acaf4f404b3e9d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1757-899X}
+      \field{journaltitle}{IOP Conference Series: Materials Science and Engineering}
+      \field{month}{10}
+      \field{note}{Publisher: IOP Publishing}
+      \field{number}{1}
+      \field{title}{A critical review on the influence of humidity for plant growth forecasting}
+      \field{volume}{1257}
+      \field{year}{2022}
+      \field{pages}{012001}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1757-899X/1257/1/012001
+      \endverb
+      \verb{file}
+      \verb IOP Full Text PDF:C\:\\Users\\luisg\\Zotero\\storage\\B2W4R83B\\Chia and Lim - 2022 - A critical review on the influence of humidity for.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.doi.org/10.1088/1757-899X/1257/1/012001
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1088/1757-899X/1257/1/012001
+      \endverb
+    \endentry
+    \entry{rusu_overview_2021}{article}{}
+      \name{author}{5}{}{%
+        {{hash=9860df17820366298aa7ba236f5ea104}{%
+           family={Rusu},
+           familyi={R\bibinitperiod},
+           given={Teodor},
+           giveni={T\bibinitperiod}}}%
+        {{hash=19752a04e739528c7ac075baf1fc1a8e}{%
+           family={Cowden},
+           familyi={C\bibinitperiod},
+           given={Reed\bibnamedelima John},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=64d4eaa37b8a93072452eee33a3fdd41}{%
+           family={Moraru},
+           familyi={M\bibinitperiod},
+           given={Paula\bibnamedelima Ioana},
+           giveni={P\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=709b5df30da066f208b5c25a4f203273}{%
+           family={Maxim},
+           familyi={M\bibinitperiod},
+           given={Mihai\bibnamedelima Avram},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1b78e13aa3a972aae95bf0fa9543255b}{%
+           family={Ghaley},
+           familyi={G\bibinitperiod},
+           given={Bhim\bibnamedelima Bahadur},
+           giveni={B\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{cda2eafcb155d97e0608566c8a20fd83}
+      \strng{fullhash}{7812f61ca1d52dd273b3e617727622fe}
+      \strng{bibnamehash}{7812f61ca1d52dd273b3e617727622fe}
+      \strng{authorbibnamehash}{7812f61ca1d52dd273b3e617727622fe}
+      \strng{authornamehash}{cda2eafcb155d97e0608566c8a20fd83}
+      \strng{authorfullhash}{7812f61ca1d52dd273b3e617727622fe}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2071-1050}
+      \field{journaltitle}{Sustainability}
+      \field{month}{1}
+      \field{note}{Number: 20 Publisher: Multidisciplinary Digital Publishing Institute}
+      \field{number}{20}
+      \field{title}{Overview of {Multiple} {Applications} of {Basil} {Species} and {Cultivars} and the {Effects} of {Production} {Environmental} {Parameters} on {Yields} and {Secondary} {Metabolites} in {Hydroponic} {Systems}}
+      \field{volume}{13}
+      \field{year}{2021}
+      \field{pages}{11332}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/su132011332
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\luisg\\Zotero\\storage\\P39XK85J\\Rusu et al. - 2021 - Overview of Multiple Applications of Basil Species.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2071-1050/13/20/11332
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2071-1050/13/20/11332
+      \endverb
+      \keyw{basil,hydroponic system,microgreens,production environment parameters}
+    \endentry
+    \entry{bita_plant_2013}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d075c994bcb58ca99aac7c5427217c80}{%
+           family={Bita},
+           familyi={B\bibinitperiod},
+           given={Craita},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0680f279286a49c0581349849fcc9035}{%
+           family={Gerats},
+           familyi={G\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{67cb384eb1c59a9ed65520fee07520d2}
+      \strng{fullhash}{67cb384eb1c59a9ed65520fee07520d2}
+      \strng{bibnamehash}{67cb384eb1c59a9ed65520fee07520d2}
+      \strng{authorbibnamehash}{67cb384eb1c59a9ed65520fee07520d2}
+      \strng{authornamehash}{67cb384eb1c59a9ed65520fee07520d2}
+      \strng{authorfullhash}{67cb384eb1c59a9ed65520fee07520d2}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1664-462X}
+      \field{journaltitle}{Frontiers in Plant Science}
+      \field{month}{7}
+      \field{note}{Publisher: Frontiers}
+      \field{shorttitle}{Plant tolerance to high temperature in a changing environment}
+      \field{title}{Plant tolerance to high temperature in a changing environment: scientific fundamentals and production of heat stress-tolerant crops}
+      \field{volume}{4}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.3389/fpls.2013.00273
+      \endverb
+      \verb{file}
+      \verb Full Text:C\:\\Users\\luisg\\Zotero\\storage\\52X746EC\\Bita and Gerats - 2013 - Plant tolerance to high temperature in a changing .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2013.00273/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2013.00273/full
+      \endverb
+      \keyw{Abiotic stress tolerance,crop productivity,Food security,Global Warming,heat tolerance,Reproductive development}
+    \endentry
+    \entry{adafruit_dht11}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=15a4fbe287b7987574ac59b2f938ddeb}{%
+           family={Adafruit},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{15a4fbe287b7987574ac59b2f938ddeb}
+      \strng{fullhash}{15a4fbe287b7987574ac59b2f938ddeb}
+      \strng{bibnamehash}{15a4fbe287b7987574ac59b2f938ddeb}
+      \strng{authorbibnamehash}{15a4fbe287b7987574ac59b2f938ddeb}
+      \strng{authornamehash}{15a4fbe287b7987574ac59b2f938ddeb}
+      \strng{authorfullhash}{15a4fbe287b7987574ac59b2f938ddeb}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{DHT11} basic temperature-humidity sensor + extras}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\luisg\\Zotero\\storage\\65XZPAH4\\386.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.adafruit.com/product/386
+      \endverb
+      \verb{url}
+      \verb https://www.adafruit.com/product/386
+      \endverb
+    \endentry
+    \entry{tettsa_dht11}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a8ed913a428009fbcde75aacbac08051}{%
+           family={Tettsa},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {es}%
+      }
+      \strng{namehash}{a8ed913a428009fbcde75aacbac08051}
+      \strng{fullhash}{a8ed913a428009fbcde75aacbac08051}
+      \strng{bibnamehash}{a8ed913a428009fbcde75aacbac08051}
+      \strng{authorbibnamehash}{a8ed913a428009fbcde75aacbac08051}
+      \strng{authornamehash}{a8ed913a428009fbcde75aacbac08051}
+      \strng{authorfullhash}{a8ed913a428009fbcde75aacbac08051}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{SENSOR} {DE} {TEMPERATURA} {Y} {HUMEDAD} {DHT11} {|} {Tettsa} - {Tienda}}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\luisg\\Zotero\\storage\\7SEXC2F5\\sensor-de-temperatura-y-humedad-dht11.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://tienda.tettsa.gt/producto/sensor-de-temperatura-y-humedad-dht11/
+      \endverb
+      \verb{url}
+      \verb https://tienda.tettsa.gt/producto/sensor-de-temperatura-y-humedad-dht11/
+      \endverb
+    \endentry
+    \entry{electronic_wings_espwroom32}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e14f3e1066aef415d655d5dcf7d2d8d0}{%
+           family={Wings},
+           familyi={W\bibinitperiod},
+           given={Electronic},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e14f3e1066aef415d655d5dcf7d2d8d0}
+      \strng{fullhash}{e14f3e1066aef415d655d5dcf7d2d8d0}
+      \strng{bibnamehash}{e14f3e1066aef415d655d5dcf7d2d8d0}
+      \strng{authorbibnamehash}{e14f3e1066aef415d655d5dcf7d2d8d0}
+      \strng{authornamehash}{e14f3e1066aef415d655d5dcf7d2d8d0}
+      \strng{authorfullhash}{e14f3e1066aef415d655d5dcf7d2d8d0}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to {ESP32} {|} {ESP32}}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\luisg\\Zotero\\storage\\3F8Y674E\\introduction-to-esp32.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.electronicwings.com/esp32/introduction-to-esp32
+      \endverb
+      \verb{url}
+      \verb https://www.electronicwings.com/esp32/introduction-to-esp32
+      \endverb
+    \endentry
+    \entry{redhat_IoT_2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a82007c47b25723539a00ff94e8b3d27}{%
+           family={RedHat},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a82007c47b25723539a00ff94e8b3d27}
+      \strng{fullhash}{a82007c47b25723539a00ff94e8b3d27}
+      \strng{bibnamehash}{a82007c47b25723539a00ff94e8b3d27}
+      \strng{authorbibnamehash}{a82007c47b25723539a00ff94e8b3d27}
+      \strng{authornamehash}{a82007c47b25723539a00ff94e8b3d27}
+      \strng{authorfullhash}{a82007c47b25723539a00ff94e8b3d27}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is {IoT}?}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.redhat.com/en/topics/internet-of-things/what-is-iot
+      \endverb
+      \verb{url}
+      \verb https://www.redhat.com/en/topics/internet-of-things/what-is-iot
+      \endverb
+    \endentry
+    \entry{grizhnevich_iot_2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c4d8a7ebccfd1ad02ac0fb5265962d9e}{%
+           family={Grizhnevich},
+           familyi={G\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{c4d8a7ebccfd1ad02ac0fb5265962d9e}
+      \strng{fullhash}{c4d8a7ebccfd1ad02ac0fb5265962d9e}
+      \strng{bibnamehash}{c4d8a7ebccfd1ad02ac0fb5265962d9e}
+      \strng{authorbibnamehash}{c4d8a7ebccfd1ad02ac0fb5265962d9e}
+      \strng{authornamehash}{c4d8a7ebccfd1ad02ac0fb5265962d9e}
+      \strng{authorfullhash}{c4d8a7ebccfd1ad02ac0fb5265962d9e}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{month}{4}
+      \field{note}{Section: Internet of Things}
+      \field{shorttitle}{{IoT} {Architecture} {Explained}}
+      \field{title}{{IoT} {Architecture} {Explained}: {Building} {Blocks} and {How} {They} {Work}}
+      \field{year}{2018}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\luisg\\Zotero\\storage\\I72CMHYZ\\iot-architecture-in-a-nutshell-and-how-it-works.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.scnsoft.com/blog/iot-architecture-in-a-nutshell-and-how-it-works
+      \endverb
+      \verb{url}
+      \verb https://www.scnsoft.com/blog/iot-architecture-in-a-nutshell-and-how-it-works
+      \endverb
+    \endentry
+    \entry{Evolution_http_Mozilla_2024}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c86d5f526218e19866b8982a328e8f42}{%
+           family={Docs},
+           familyi={D\bibinitperiod},
+           given={Mozzila\bibnamedelimb Developer\bibnamedelima Web},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{c86d5f526218e19866b8982a328e8f42}
+      \strng{fullhash}{c86d5f526218e19866b8982a328e8f42}
+      \strng{bibnamehash}{c86d5f526218e19866b8982a328e8f42}
+      \strng{authorbibnamehash}{c86d5f526218e19866b8982a328e8f42}
+      \strng{authornamehash}{c86d5f526218e19866b8982a328e8f42}
+      \strng{authorfullhash}{c86d5f526218e19866b8982a328e8f42}
+      \field{extraname}{1}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Evolution of {HTTP} - {HTTP} {|} {MDN}}
+      \field{year}{2024}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\luisg\\Zotero\\storage\\2X2XYRGE\\Evolution_of_HTTP.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP
+      \endverb
+      \verb{url}
+      \verb https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP
+      \endverb
+    \endentry
+    \entry{fielding_hypertext_1999}{misc}{}
+      \name{author}{7}{}{%
+        {{hash=a6155135a306bddfc30cc4f52d1924e6}{%
+           family={Fielding},
+           familyi={F\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4991b9e5bfacbd86d4f778b16c57f9fa}{%
+           family={Gettys},
+           familyi={G\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=eed83917534e526c997d89c7c176e032}{%
+           family={Mogul},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=b5c17667af68a58038b624101ab91e1f}{%
+           family={Frystyk},
+           familyi={F\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6c0c9e27a4c2f882efbbe395bd186936}{%
+           family={Masinter},
+           familyi={M\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b02d4916a516d9ce8550642ddd60faaa}{%
+           family={Leach},
+           familyi={L\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d469e0df304c98f67b55d087ea6187a1}{%
+           family={Berners-Lee},
+           familyi={B\bibinithyphendelim L\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{145542396d68a882d54f76197e330807}
+      \strng{fullhash}{59549b49eb97a18d54e9a776de136142}
+      \strng{bibnamehash}{145542396d68a882d54f76197e330807}
+      \strng{authorbibnamehash}{145542396d68a882d54f76197e330807}
+      \strng{authornamehash}{145542396d68a882d54f76197e330807}
+      \strng{authorfullhash}{59549b49eb97a18d54e9a776de136142}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Hypertext {Transfer} {Protocol} -- {HTTP}/1.1}
+      \field{year}{1999}
+      \verb{file}
+      \verb rfc2616.pdf:C\:\\Users\\luisg\\Zotero\\storage\\N5DJ5U4C\\rfc2616.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.w3.org/Protocols/HTTP/1.1/rfc2616.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/Protocols/HTTP/1.1/rfc2616.pdf
+      \endverb
+    \endentry
+    \entry{overview_http_mozilla_2024}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c86d5f526218e19866b8982a328e8f42}{%
+           family={Docs},
+           familyi={D\bibinitperiod},
+           given={Mozzila\bibnamedelimb Developer\bibnamedelima Web},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{c86d5f526218e19866b8982a328e8f42}
+      \strng{fullhash}{c86d5f526218e19866b8982a328e8f42}
+      \strng{bibnamehash}{c86d5f526218e19866b8982a328e8f42}
+      \strng{authorbibnamehash}{c86d5f526218e19866b8982a328e8f42}
+      \strng{authornamehash}{c86d5f526218e19866b8982a328e8f42}
+      \strng{authorfullhash}{c86d5f526218e19866b8982a328e8f42}
+      \field{extraname}{2}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{An overview of {HTTP} - {HTTP} {|} {MDN}}
+      \field{year}{2024}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\luisg\\Zotero\\storage\\RFJB4QZ3\\Overview.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
+      \endverb
+      \verb{url}
+      \verb https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
+      \endverb
+    \endentry
+    \entry{dweet_dweetio_faq}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d36a6bc86c782351ce69aa9a293b6bdf}{%
+           family={Dweet},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{d36a6bc86c782351ce69aa9a293b6bdf}
+      \strng{fullhash}{d36a6bc86c782351ce69aa9a293b6bdf}
+      \strng{bibnamehash}{d36a6bc86c782351ce69aa9a293b6bdf}
+      \strng{authorbibnamehash}{d36a6bc86c782351ce69aa9a293b6bdf}
+      \strng{authornamehash}{d36a6bc86c782351ce69aa9a293b6bdf}
+      \strng{authorfullhash}{d36a6bc86c782351ce69aa9a293b6bdf}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{dweet.io - {Share} your thing- like it ain't no thang.}
+      \verb{file}
+      \verb dweet.io - Share your thing- like it ain't no thang.:C\:\\Users\\luisg\\Zotero\\storage\\FIY29NC2\\faq.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://dweet.io/faq
+      \endverb
+      \verb{url}
+      \verb https://dweet.io/faq
+      \endverb
+    \endentry
+    \entry{verbruggen_fuzzy_1999}{book}{}
+      \name{author}{2}{}{%
+        {{hash=cdd4025ad4179435e9fe0d30dd485667}{%
+           family={Verbruggen},
+           familyi={V\bibinitperiod},
+           given={H.\bibnamedelimi B.},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=bb83d9b839324753acf7043c7b599d15}{%
+           family={Babu?ka},
+           familyi={B\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {World Scientific}%
+      }
+      \strng{namehash}{592b8949ef29d0873dfad520b90a46d4}
+      \strng{fullhash}{592b8949ef29d0873dfad520b90a46d4}
+      \strng{bibnamehash}{592b8949ef29d0873dfad520b90a46d4}
+      \strng{authorbibnamehash}{592b8949ef29d0873dfad520b90a46d4}
+      \strng{authornamehash}{592b8949ef29d0873dfad520b90a46d4}
+      \strng{authorfullhash}{592b8949ef29d0873dfad520b90a46d4}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-981-02-3825-4}
+      \field{note}{Google-Books-ID: 5vRmd\_VIFFQC}
+      \field{shorttitle}{Fuzzy {Logic} {Control}}
+      \field{title}{Fuzzy {Logic} {Control}: {Advances} in {Applications}}
+      \field{year}{1999}
+      \keyw{Computers / Intelligence (AI) \& Semantics,Technology \& Engineering / Electrical,Technology \& Engineering / Mechanical}
+    \endentry
+  \enddatalist
+  \missing{overview_mozilla_2024}
+\endrefsection
+\endinput
+

@@ -1,0 +1,34 @@
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {0.1}Introducción}{25}{section.84}%
+\contentsline {section}{\numberline {0.2}Antecedentes}{25}{section.85}%
+\contentsline {subsection}{\numberline {0.2.1}La hidroponía en Guatemala}{25}{subsection.86}%
+\contentsline {subsection}{\numberline {0.2.2}Tendencias actuales en la producción sostenible de hortalizas}{25}{subsection.87}%
+\contentsline {subsection}{\numberline {0.2.3}Uso de \textit {Fuzzy Logic} para el control de sistemas hidropónicos}{25}{subsection.88}%
+\contentsline {subsection}{\numberline {0.2.4}Monitoreo y control de cultivos hidropónicos utilizando tecnología IoT}{25}{subsection.89}%
+\contentsline {subsection}{\numberline {0.2.5}La digitación de la agricultura}{25}{subsection.90}%
+\contentsline {section}{\numberline {0.3}Justificación}{25}{section.91}%
+\contentsline {section}{\numberline {0.4}Objetivos}{25}{section.92}%
+\contentsline {subsection}{\numberline {0.4.1}Objetivo general}{25}{subsection.93}%
+\contentsline {subsection}{\numberline {0.4.2}Objetivos específicos}{25}{subsection.94}%
+\contentsline {section}{\numberline {0.5}Alcance}{25}{section.95}%
+\contentsline {section}{\numberline {0.6}Marco Teórico}{25}{section.96}%
+\contentsline {subsection}{\numberline {0.6.1}Cultivos hidropónicos}{25}{subsection.97}%
+\contentsline {subsection}{\numberline {0.6.2}Nutrient Film Technique (NFT)}{25}{subsection.98}%
+\contentsline {subsection}{\numberline {0.6.3}Solución de nutrientes}{25}{subsection.99}%
+\contentsline {subsection}{\numberline {0.6.4}Monitoreo de parámetros para el crecimiento de plantas}{25}{subsection.100}%
+\contentsline {subsection}{\numberline {0.6.5}Módulo RTC (relog de tiempo real)}{25}{subsection.101}%
+\contentsline {subsection}{\numberline {0.6.6}Placa de desarrollo ESP32}{25}{subsection.102}%
+\contentsline {subsection}{\numberline {0.6.7}Sistemas de control y conectividad con la nube}{25}{subsection.103}%
+\contentsline {section}{\numberline {0.7}Análisis del crecimiento y rendimiento del cilantro en agricultura tradicional}{25}{section.104}%
+\contentsline {section}{\numberline {0.8}Elaboración de sistema hidropónico}{25}{section.105}%
+\contentsline {subsection}{\numberline {0.8.1}Diseño y construcción de estructura}{25}{subsection.106}%
+\contentsline {subsection}{\numberline {0.8.2}Programación de sistemas embedidos}{25}{subsection.107}%
+\contentsline {subsection}{\numberline {0.8.3}Recolección de datos y calibración de sensores}{25}{subsection.108}%
+\contentsline {subsection}{\numberline {0.8.4}Diseño y programación de sistemas de control}{25}{subsection.109}%
+\contentsline {subsection}{\numberline {0.8.5}Pruebas de crecimiento del sistema hidropónico}{25}{subsection.110}%
+\contentsline {subsection}{\numberline {0.8.6}Pruebas de consumo eléctrico del sistema}{25}{subsection.111}%
+\contentsline {section}{\numberline {0.9}Sistema final}{25}{section.112}%
+\contentsline {section}{\numberline {0.10}Conclusiones}{25}{section.113}%
+\contentsline {section}{\numberline {0.11}Recomendaciones}{25}{section.114}%
+\contentsline {section}{\numberline {0.12}Bibliografía}{25}{section.115}%

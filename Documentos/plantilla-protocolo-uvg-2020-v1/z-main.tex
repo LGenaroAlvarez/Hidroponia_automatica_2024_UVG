@@ -1,0 +1,176 @@
+% Se pre-carga la información del estudiante sólo para poder emplear el macro de
+% selección de versión (digital o impresa)
+\input{0-datos_estudiante}
+
+\ifdefined\printver
+    \documentclass[11pt, letterpaper, twoside, openright]{report}
+\else
+    \documentclass[11pt, letterpaper]{report}
+\fi
+
+% Eliminar la opción de twoside y openright si se desea generar la versión
+% digital del documento en lugar de la versión impresa
+%\documentclass[11pt, letterpaper, twoside, openright]{report}
+\usepackage[spanish, es-nodecimaldot, es-noquoting]{babel}
+% cambiar a spanish, mexico si se quiere emplear tabla en lugar de cuadro
+\selectlanguage{spanish}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\title{Plantilla para protocolo de trabajos de graduación IE-MT 2020v1}
+\author{MSc. Miguel Zea}
+\date{\today}
+
+% Información del estudiante en el archivo datos_estudiante.tex
+\input{0-datos_estudiante}
+
+% ==============================================================================
+% DEFINICIÓN DE PAQUETES
+% ==============================================================================
+\usepackage{xcolor}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{mathtools}
+\usepackage{graphicx}
+\usepackage{xfrac}
+\usepackage{float}
+\usepackage{mathtools}
+\usepackage[hypertexnames=false]{hyperref}
+% \usepackage{bookmark}
+\usepackage[font=small]{caption}
+\usepackage{subcaption}
+%\usepackage{csquotes}
+\usepackage{xpatch}
+\usepackage{emptypage}
+\usepackage{hyphenat}
+\usepackage{fancyhdr}
+\usepackage[backend=biber, style=ieee]{biblatex}
+\ifdefined\usarAPA 
+    \usepackage[backend=biber, style=apa]{biblatex}
+\fi
+\addbibresource{m-bibliografia.bib}
+
+\usepackage[percent]{overpic}
+
+\usepackage{chngcntr}
+
+% ==============================================================================
+% MÁRGENES Y FORMATO GENERALES
+% ==============================================================================
+\usepackage[top=1in, left=1.5in, right=1in, bottom=1in]{geometry}
+%Options: Sonny, Lenny, Glenn, Conny, Rejne, Bjarne, Bjornstrup
+\usepackage[Sonny]{fncychap}
+
+% ==============================================================================
+% DEFINICIONES DE LA PLANTILLA
+% ==============================================================================
+\definecolor{uvg-green}{RGB}{17,71,52}
+\newcommand{\defaultparformat}[1]{
+	{\setlength{\parskip}{2ex}
+     \input{#1}}
+}
+\ifdefined\capsecuvg
+	\renewcommand\thechapter{\Roman{chapter}}
+    \renewcommand\thesection{\Alph{section}}
+	\renewcommand\thesubsection{\arabic{subsection}}
+    \renewcommand\thesubsubsection{\alph{subsubection}}
+\fi
+\counterwithout{figure}{chapter}
+\counterwithout{table}{chapter}
+\counterwithout{equation}{chapter}
+
+\newcommand{\blankpage}{
+\newpage
+\thispagestyle{empty}
+\mbox{}
+\newpage
+}
+% ==============================================================================
+
+% Comandos definidos por el usuario en el archivo comandos_usuario.tex
+\input{2-paquetes_y_comandos_usuario}
+
+% ==============================================================================
+% CUERPO DEL TRABAJO
+% ==============================================================================
+\pagestyle{headings}
+\begin{document}
+
+% Se define la carpeta de imágenes
+\graphicspath{{figuras/}}
+
+% ==============================================================================
+% PRIMERAS PÁGINAS (Carátulas más hojas de guarda)
+% ==============================================================================
+
+\newpage
+\cleardoublepage\phantomsection
+\pagecolor{white}
+\color{black}
+\setcounter{page}{1}
+\pagenumbering{roman}
+\thispagestyle{empty}
+\begin{center}
+	\LARGE UNIVERSIDAD DEL VALLE DE GUATEMALA\\
+	\LARGE Facultad de \uvgfacultad \\[0.75cm]
+\end{center}
+\begin{figure}[h]
+	\begin{center}
+	\includegraphics[height=5.5 cm]{plantilla/escudoUVGnegro.eps}
+	\vspace{0.5in}
+	\end{center}
+\end{figure}
+\begin{center}
+	\Large \textbf{\nohyphens{\titulotesis}} \\
+	%\LARGE \textbf{\titulotesis} \\
+	\vfill
+	\Large \nohyphens{Protocolo de trabajo de graduación presentado por \nombreestudiante,\ estudiante de \uvgcarrera} \\
+	\vfill
+	\large Guatemala, \\
+	\vspace{1em}
+	\anoentrega
+\end{center}
+
+
+\pagestyle{plain}
+
+% ==============================================================================
+% CONTENIDO DEL TRABAJO
+% ==============================================================================
+\newpage
+\cleardoublepage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+\section*{Resumen}
+\defaultparformat{b-resumen}
+
+\section*{Antecedentes}
+\defaultparformat{e-antecedentes}
+
+\section*{Justificación}
+\defaultparformat{f-justificacion}
+
+\section*{Objetivos}
+\defaultparformat{g-objetivos}
+
+\section*{Marco teórico}
+\defaultparformat{i-marco_teorico}
+
+\section*{Metodología}
+\defaultparformat{p-metodologia}
+
+\section*{Cronograma de actividades}
+\defaultparformat{q-cronograma}
+
+\section*{Índice preliminar}
+\defaultparformat{r-indice_preliminar}
+
+\section*{Referencias}
+\printbibliography[heading=none]
+
+
+\end{document}
