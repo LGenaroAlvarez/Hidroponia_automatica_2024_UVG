@@ -38,7 +38,7 @@
 ## Descripción
  Este repositorio cuenta con la documentación del sistema hidropónico automático utilizando técnica de solución nutritiva recirculante (NFT por sus siglas en inglés) desarrollado como trabajo de graduación. El proyecto establece las bases para crear un sistema funcional que permita el monitoreo de diferentes parámetros ambientales que influyen en el crecimiento de las plantas en un entorno hidroónico. El sistema utiliza la placa de desarrollo [ESP-WROOM-32 de HiLetgo](http://www.hiletgo.com/ProductDetail/1906566.html) para recolectar datos de temperatura y humedad ambiental, así como de temperatura y pH de la solución de crecimiento. Para esto se utilizaron una serie de sensores analógicos y digitales los cuales se integraron utilizando diferentes librerías de licencia abierta.
 
- Este proyecto es el primero en la línea de investigación <!-- Agregar nombre de la nueva línea de investigación -->.
+ Este proyecto es el primero en la línea de investigación de **Agricultura de Precisión**.
 
 ## Desglose del sistema
 
@@ -71,3 +71,6 @@ La estructura física se basó al rededor de una estantería metálica modular. 
 * Arduino C
 * Java
 * XML
+
+
+
